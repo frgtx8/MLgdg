@@ -16,7 +16,7 @@ Bike Sharing Dataset
    ```bash
    pip install -r requirements.txt
 2. Jalankan streamlit
-   
+   ```bash
    streamlit run dashboard.py
    
 ## Ringkasan Insight Hasil Analisis
